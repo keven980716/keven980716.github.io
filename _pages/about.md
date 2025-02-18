@@ -30,9 +30,12 @@ Preprints
 
 (# denotes Equal Contribution)
 
+* **Revisiting Weak-to-Strong Generalization in Theory and Practice: Reverse KL vs. Forward KL**   
+Wei Yao#, **Wenkai Yang**#, Ziqiao Wang, Yankai Lin, Yong Liu    
+[[arxiv](https://arxiv.org/pdf/2502.11107)]
 
 * **Understanding the Capabilities and Limitations of Weak-to-Strong Generalization**   
-Wei Yao, **Wenkai Yang**, Ziqiao Wang, Yankai Lin, Yong Liu    
+Wei Yao#, **Wenkai Yang**#, Ziqiao Wang, Yankai Lin, Yong Liu    
 [[arxiv](https://arxiv.org/pdf/2502.01458)]
 
 
