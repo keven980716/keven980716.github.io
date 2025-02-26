@@ -37,11 +37,11 @@ Preprints
 
 * **Revisiting Weak-to-Strong Generalization in Theory and Practice: Reverse KL vs. Forward KL**   
 Wei Yao#, **Wenkai Yang**#, Ziqiao Wang, Yankai Lin, Yong Liu    
-[[arxiv](https://arxiv.org/pdf/2502.11107)]
+[[arxiv](https://arxiv.org/pdf/2502.11107)，[code](https://github.com/keven980716/weak-to-strong-deception)]
 
 * **Understanding the Capabilities and Limitations of Weak-to-Strong Generalization**   
 Wei Yao#, **Wenkai Yang**#, Ziqiao Wang, Yankai Lin, Yong Liu    
-[[arxiv](https://arxiv.org/pdf/2502.01458)]
+[[arxiv](https://arxiv.org/pdf/2502.01458)，[code](https://github.com/keven980716/weak-to-strong-deception)]
 
 
 
