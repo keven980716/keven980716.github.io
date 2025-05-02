@@ -30,6 +30,9 @@ Preprints
 
 (# denotes Equal Contribution)
 
+* **DeepCritic: Deliberate Critique with Large Language Models**   
+**Wenkai Yang**, Jingwen Chen, Yankai Lin, Ji-Rong Wen    
+[[arxiv](https://arxiv.org/pdf/2505.00662), [code](https://github.com/RUCBM/DeepCritic)]
 
 * **Towards Thinking-Optimal Scaling of Test-Time Compute for LLM Reasoning**   
 **Wenkai Yang**, Shuming Ma, Yankai Lin, Furu Wei    
