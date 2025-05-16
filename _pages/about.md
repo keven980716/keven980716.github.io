@@ -38,9 +38,6 @@ Preprints
 **Wenkai Yang**, Shuming Ma, Yankai Lin, Furu Wei    
 [[arxiv](https://arxiv.org/pdf/2502.18080)]
 
-* **Revisiting Weak-to-Strong Generalization in Theory and Practice: Reverse KL vs. Forward KL**   
-Wei Yao#, **Wenkai Yang**#, Ziqiao Wang, Yankai Lin, Yong Liu    
-[[arxiv](https://arxiv.org/pdf/2502.11107)，[code](https://github.com/keven980716/weak-to-strong-deception)]
 
 * **Understanding the Capabilities and Limitations of Weak-to-Strong Generalization**   
 Wei Yao#, **Wenkai Yang**#, Ziqiao Wang, Yankai Lin, Yong Liu    
@@ -53,6 +50,10 @@ Selected Publications
 [Full List](https://scholar.google.com/citations?user=8oNc9ZMAAAAJ&hl=en)
 
 (# denotes Equal Contribution)
+
+* **Revisiting Weak-to-Strong Generalization in Theory and Practice: Reverse KL vs. Forward KL**   
+Wei Yao#, **Wenkai Yang**#, Ziqiao Wang, Yankai Lin, Yong Liu    
+***Findings of ACL 2025*** [[arxiv](https://arxiv.org/pdf/2502.11107)，[code](https://github.com/keven980716/weak-to-strong-deception)]
 
 * **Super(ficial)-alignment: Strong Models May Deceive Weak Models in Weak-to-Strong Generalization**   
 **Wenkai Yang**, Shiqi Shen, Guangyao Shen, Wei Yao, Yong Liu, Zhi Gong, Yankai Lin, Ji-Rong Wen   
