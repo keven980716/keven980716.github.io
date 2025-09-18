@@ -36,11 +36,6 @@ Preprints
 
 
 
-* **Understanding the Capabilities and Limitations of Weak-to-Strong Generalization**   
-Wei Yao#, **Wenkai Yang**#, Ziqiao Wang, Yankai Lin, Yong Liu    
-**SSI-FM@ICLR 2025** [[arxiv](https://arxiv.org/pdf/2502.01458)，[code](https://github.com/keven980716/weak-to-strong-deception)]
-
-
 
 Selected Publications
 ======
