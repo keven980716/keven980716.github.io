@@ -22,7 +22,7 @@ Internship
 ======
 
 * Research Intern in Hunyuan Team, Tencent Inc., July 2025 - Now.
-* 
+  
 * Research Intern in Microsoft Research, Asia, Sept. 2024 - May 2025.
 
 * Research Intern in Wechat AI, Tencent Inc., Jan. 2021 - Aug. 2024.
