@@ -34,9 +34,6 @@ Preprints
 **Wenkai Yang**, Jingwen Chen, Yankai Lin, Ji-Rong Wen    
 [[arxiv](https://arxiv.org/pdf/2505.00662), [code](https://github.com/RUCBM/DeepCritic)]
 
-* **Towards Thinking-Optimal Scaling of Test-Time Compute for LLM Reasoning**   
-**Wenkai Yang**, Shuming Ma, Yankai Lin, Furu Wei    
-[[arxiv](https://arxiv.org/pdf/2502.18080)]
 
 
 * **Understanding the Capabilities and Limitations of Weak-to-Strong Generalization**   
@@ -50,6 +47,10 @@ Selected Publications
 [Full List](https://scholar.google.com/citations?user=8oNc9ZMAAAAJ&hl=en)
 
 (# denotes Equal Contribution)
+
+* **Towards Thinking-Optimal Scaling of Test-Time Compute for LLM Reasoning**   
+**Wenkai Yang**, Shuming Ma, Yankai Lin, Furu Wei    
+***NeurIPS 2025*** [[arxiv](https://arxiv.org/pdf/2502.18080)]
 
 * **Revisiting Weak-to-Strong Generalization in Theory and Practice: Reverse KL vs. Forward KL**   
 Wei Yao#, **Wenkai Yang**#, Ziqiao Wang, Yankai Lin, Yong Liu    
