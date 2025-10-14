@@ -48,7 +48,7 @@ Selected Publications
 
 * **Towards Thinking-Optimal Scaling of Test-Time Compute for LLM Reasoning**   
 **Wenkai Yang**, Shuming Ma, Yankai Lin, Furu Wei    
-***NeurIPS 2025*** [[arxiv](https://arxiv.org/pdf/2502.18080)]
+***NeurIPS 2025*** [[arxiv](https://arxiv.org/pdf/2502.18080), [code](https://github.com/RUCBM/TOPS)]
 
 * **Revisiting Weak-to-Strong Generalization in Theory and Practice: Reverse KL vs. Forward KL**   
 Wei Yao#, **Wenkai Yang**#, Ziqiao Wang, Yankai Lin, Yong Liu    
