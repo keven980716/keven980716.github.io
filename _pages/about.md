@@ -34,7 +34,7 @@ Preprints
 (# denotes Equal Contribution)
 
 * **LaSeR: Reinforcement Learning with Last-Token Self-Rewarding**    
-**Wenkai Yang**, Weijie Liu, Ruobing Xie, Yiju Guo, Lulu Wu, Saiyong Yang, Yankai Lin
+**Wenkai Yang**, Weijie Liu, Ruobing Xie, Yiju Guo, Lulu Wu, Saiyong Yang, Yankai Lin    
 [[arxiv](https://arxiv.org/abs/2510.14943), [code](https://github.com/RUCBM/LaSeR)]
 
 * **DeepCritic: Deliberate Critique with Large Language Models**   
