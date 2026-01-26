@@ -33,9 +33,6 @@ Preprints
 
 (# denotes Equal Contribution)
 
-* **LaSeR: Reinforcement Learning with Last-Token Self-Rewarding**    
-**Wenkai Yang**, Weijie Liu, Ruobing Xie, Yiju Guo, Lulu Wu, Saiyong Yang, Yankai Lin    
-[[arxiv](https://arxiv.org/abs/2510.14943), [code](https://github.com/RUCBM/LaSeR)]
 
 * **DeepCritic: Deliberate Critique with Large Language Models**   
 **Wenkai Yang**, Jingwen Chen, Yankai Lin, Ji-Rong Wen    
@@ -49,6 +46,10 @@ Selected Publications
 [Full List](https://scholar.google.com/citations?user=8oNc9ZMAAAAJ&hl=en)
 
 (# denotes Equal Contribution)
+
+* **LaSeR: Reinforcement Learning with Last-Token Self-Rewarding**    
+**Wenkai Yang**, Weijie Liu, Ruobing Xie, Yiju Guo, Lulu Wu, Saiyong Yang, Yankai Lin    
+***ICLR 2026***  [[arxiv](https://arxiv.org/abs/2510.14943), [code](https://github.com/RUCBM/LaSeR)]
 
 * **Towards Thinking-Optimal Scaling of Test-Time Compute for LLM Reasoning**   
 **Wenkai Yang**, Shuming Ma, Yankai Lin, Furu Wei    
