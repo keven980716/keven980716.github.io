@@ -33,9 +33,12 @@ Preprints
 
 (# denotes Equal Contribution)
 
+* **Learning beyond Teacher: Generalized On-Policy Distillation with Reward Extrapolation**   
+**Wenkai Yang**, Weijie Liu, Ruobing Xie, Kai Yang, Saiyong Yang, Yankai Lin    
+[[arxiv](https://arxiv.org/abs/2602.12125), [code](https://github.com/RUCBM/G-OPD)]
 
 * **DeepCritic: Deliberate Critique with Large Language Models**   
-**Wenkai Yang**, Jingwen Chen, Yankai Lin, Ji-Rong Wen    
+**Wenkai Yang**#, Jingwen Chen#, Yankai Lin, Ji-Rong Wen    
 [[arxiv](https://arxiv.org/pdf/2505.00662), [code](https://github.com/RUCBM/DeepCritic)]
 
 
