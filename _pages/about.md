@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a Ph.D. student at [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn), [Renmin University of China](https://www.ruc.edu.cn), where I am advised by Prof. [Yankai Lin](https://linyankai.github.io). Before that, I got my Master's degree at the Center for Data Science of Peking University. I was a member of [LANCO](https://lancopku.github.io) group, where I was advised by Prof. [Xu Sun](https://xusun.org). I am interested in Machine Learning (ML) and Natural Language Processing (NLP). Specifically, I am working on (1) alignment and security problems of Large Language Models; (2) Large Language Model reasoning.
+Hi! I am a Ph.D. student at [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn), [Renmin University of China](https://www.ruc.edu.cn), where I am advised by Prof. [Yankai Lin](https://linyankai.github.io). Before that, I got my Master's degree at the Center for Data Science of Peking University. I was a member of [LANCO](https://lancopku.github.io) group, where I was advised by Prof. [Xu Sun](https://xusun26.github.io/). I am interested in Machine Learning (ML) and Natural Language Processing (NLP). Specifically, I am working on (1) alignment and security problems of Large Language Models; (2) Large Language Model reasoning.
 
 Education
 ======
