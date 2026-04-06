@@ -21,7 +21,7 @@ Education
 Internship
 ======
 
-* Research Intern in Hunyuan Team, Tencent Inc., July 2025 - Now.
+* Research Intern in Hunyuan Team, Tencent Inc., July 2025 - March 2026.
   
 * Research Intern in Microsoft Research, Asia, Sept. 2024 - May 2025.
 
@@ -49,6 +49,11 @@ Selected Publications
 [Full List](https://scholar.google.com/citations?user=8oNc9ZMAAAAJ&hl=en)
 
 (# denotes Equal Contribution)
+
+
+* **CURE: Critique-Driven Unified Reinforcement Learning for Test-Time Self-Improvement**    
+Guirong Chen#, Shuqi Ye#, **Wenkai Yang**#, Shiqi Shen, Guangyao Shen, Yankai Lin    
+***ACL 2026*** 
 
 * **LaSeR: Reinforcement Learning with Last-Token Self-Rewarding**    
 **Wenkai Yang**, Weijie Liu, Ruobing Xie, Yiju Guo, Lulu Wu, Saiyong Yang, Yankai Lin    
