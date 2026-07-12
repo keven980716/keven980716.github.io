@@ -514,6 +514,18 @@ footer {
   text-align: center;
 }
 
+/* ---- Visitor Map ---- */
+.visitor-map {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  min-height: 200px;
+}
+
 /* ---- Back to Top ---- */
 .back-top {
   margin-top: 36px;
