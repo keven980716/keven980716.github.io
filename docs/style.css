@@ -512,6 +512,8 @@ ul.awards li i {
   font-size: 14px;
   margin-top: 3px;
   flex-shrink: 0;
+  width: 18px;
+  text-align: center;
 }
 
 /* ---- Footer ---- */
