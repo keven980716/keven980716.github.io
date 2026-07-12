@@ -1,0 +1,54 @@
+---
+layout: compress
+---
+
+{% include base_path %}
+
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
+  <body>
+
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
+    {{ content }}
+
+    <div class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include footer.html %}
+      </footer>
+    </div>
+
+    {% include scripts.html %}
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ioB7nJPwt5j2zfZQCrsZTD-n6iMfM8nxfA-_7jHTHL4&cl=ffffff&w=a"></script>
+
+    <!-- Dark Mode Toggle Script -->
+    <script>
+      (function() {
+        var checkbox = document.getElementById('dark-mode-checkbox');
+        if (!checkbox) return;
+
+        // Initialize checkbox state
+        if (localStorage.getItem('theme') === 'dark') {
+          checkbox.checked = true;
+        }
+
+        checkbox.addEventListener('change', function() {
+          if (this.checked) {
+            document.documentElement.setAttribute('data-theme', 'dark');
+            localStorage.setItem('theme', 'dark');
+          } else {
+            document.documentElement.removeAttribute('data-theme');
+            localStorage.setItem('theme', 'light');
+          }
+        });
+      })();
+    </script>
+  </body>
+</html>

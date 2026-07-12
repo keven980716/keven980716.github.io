@@ -1,0 +1,313 @@
+/* ==========================================================================
+   CUSTOM STYLES - Modern Academic Theme
+   ========================================================================== */
+
+/*
+   CSS Variables for Dark Mode
+   ========================================================================== */
+
+:root {
+  --bg-color: #ffffff;
+  --text-color: #333333;
+  --text-secondary: #666666;
+  --heading-color: #222222;
+  --border-color: #e8e8e8;
+  --card-bg: #f8f9fa;
+  --card-border: #e9ecef;
+  --badge-bg: #3d4450;
+  --badge-text: #ffffff;
+  --sidebar-bg: #ffffff;
+  --link-color: #1a73e8;
+  --shadow-color: rgba(0, 0, 0, 0.08);
+}
+
+[data-theme="dark"] {
+  --bg-color: #1a1a2e;
+  --text-color: #e0e0e0;
+  --text-secondary: #aaaaaa;
+  --heading-color: #f0f0f0;
+  --border-color: #333355;
+  --card-bg: #16213e;
+  --card-border: #0f3460;
+  --badge-bg: #0f3460;
+  --badge-text: #e0e0e0;
+  --sidebar-bg: #16213e;
+  --link-color: #64b5f6;
+  --shadow-color: rgba(0, 0, 0, 0.3);
+}
+
+[data-theme="dark"] body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
+
+[data-theme="dark"] .page__content h2 {
+  color: var(--heading-color);
+}
+
+[data-theme="dark"] .page__content a {
+  color: var(--link-color);
+}
+
+[data-theme="dark"] .sidebar .author__name {
+  color: var(--heading-color);
+}
+
+[data-theme="dark"] .author__bio {
+  color: var(--text-secondary);
+}
+
+[data-theme="dark"] .author__urls a {
+  color: var(--text-secondary);
+}
+
+[data-theme="dark"] .masthead {
+  background-color: var(--bg-color);
+  border-bottom-color: var(--border-color);
+}
+
+[data-theme="dark"] .masthead a {
+  color: var(--text-color);
+}
+
+[data-theme="dark"] .page__footer {
+  background-color: var(--card-bg);
+  color: var(--text-secondary);
+}
+
+/*
+   News Section
+   ========================================================================== */
+
+.news-item {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 0.8em;
+  line-height: 1.6;
+}
+
+.news-badge {
+  display: inline-block;
+  padding: 2px 10px;
+  margin-right: 12px;
+  background-color: var(--badge-bg);
+  color: var(--badge-text);
+  border-radius: 4px;
+  font-size: 0.82em;
+  font-family: monospace;
+  white-space: nowrap;
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+
+.news-content {
+  flex: 1;
+  color: var(--text-color);
+}
+
+.news-content .highlight-text {
+  color: #e8590c;
+  font-weight: 600;
+}
+
+.news-content .highlight-award {
+  color: #2e7d32;
+  font-weight: 600;
+}
+
+/*
+   Education & Experience Section
+   ========================================================================== */
+
+.edu-item {
+  margin-bottom: 0.6em;
+  padding-left: 0;
+  line-height: 1.7;
+}
+
+.edu-item .degree {
+  font-weight: 700;
+  color: var(--heading-color);
+}
+
+.edu-item .school {
+  color: var(--text-color);
+}
+
+.edu-item .date {
+  color: var(--text-secondary);
+  font-size: 0.9em;
+  margin-left: 4px;
+}
+
+.exp-item {
+  margin-bottom: 1em;
+}
+
+.exp-item .company {
+  color: var(--link-color);
+  font-weight: 500;
+}
+
+.exp-item .role {
+  color: var(--text-color);
+}
+
+.exp-item .exp-date {
+  color: var(--text-secondary);
+  font-size: 0.88em;
+}
+
+.exp-item .mentor {
+  color: var(--text-secondary);
+  font-size: 0.88em;
+  margin-top: 2px;
+}
+
+/*
+   Publication Cards
+   ========================================================================== */
+
+.pub-item {
+  background-color: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-radius: 8px;
+  padding: 1em 1.2em;
+  margin-bottom: 1em;
+  transition: box-shadow 0.2s ease;
+}
+
+.pub-item:hover {
+  box-shadow: 0 4px 12px var(--shadow-color);
+}
+
+.pub-item .pub-title {
+  font-weight: 700;
+  font-size: 0.95em;
+  color: var(--heading-color);
+  margin-bottom: 0.3em;
+}
+
+.pub-item .pub-authors {
+  font-size: 0.88em;
+  color: var(--text-secondary);
+  margin-bottom: 0.4em;
+}
+
+.pub-item .pub-venue {
+  font-size: 0.88em;
+  font-weight: 600;
+  color: var(--text-color);
+  margin-bottom: 0.4em;
+}
+
+.pub-item .pub-venue .venue-highlight {
+  color: #e8590c;
+  font-weight: 600;
+}
+
+.pub-item .pub-links a {
+  display: inline-block;
+  padding: 2px 8px;
+  margin-right: 6px;
+  font-size: 0.8em;
+  border: 1px solid var(--border-color);
+  border-radius: 4px;
+  color: var(--link-color);
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.pub-item .pub-links a:hover {
+  background-color: var(--link-color);
+  color: #fff;
+  text-decoration: none;
+}
+
+/*
+   Dark Mode Toggle
+   ========================================================================== */
+
+.dark-mode-toggle {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+  padding-top: 15px;
+  border-top: 1px solid var(--border-color);
+}
+
+.dark-mode-toggle label {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  font-size: 0.85em;
+  color: var(--text-secondary);
+}
+
+.dark-mode-toggle .toggle-switch {
+  position: relative;
+  width: 40px;
+  height: 22px;
+  background: #ccc;
+  border-radius: 11px;
+  margin-right: 10px;
+  transition: background 0.3s ease;
+}
+
+.dark-mode-toggle input[type="checkbox"] {
+  display: none;
+}
+
+.dark-mode-toggle input[type="checkbox"]:checked + .toggle-switch {
+  background: #1a73e8;
+}
+
+.dark-mode-toggle .toggle-switch::after {
+  content: '';
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  width: 18px;
+  height: 18px;
+  background: #fff;
+  border-radius: 50%;
+  transition: transform 0.3s ease;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+}
+
+.dark-mode-toggle input[type="checkbox"]:checked + .toggle-switch::after {
+  transform: translateX(18px);
+}
+
+/*
+   Miscellaneous Improvements
+   ========================================================================== */
+
+/* Smoother page transitions */
+.page__content {
+  animation: fadeIn 0.4s ease;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Better list styling in content */
+.page__content ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.page__content ul > li {
+  position: relative;
+  padding-left: 0;
+  margin-bottom: 0.6em;
+}
+
+/* Section separator */
+.section-separator {
+  border: none;
+  border-top: 1px solid var(--border-color);
+  margin: 2em 0;
+}
