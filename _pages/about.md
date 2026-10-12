@@ -15,6 +15,11 @@ My research focuses on: (i) alignment and security problems of Large Language Mo
 ## News
 
 <div class="news-item">
+  <span class="news-badge">2026/09</span>
+  <span class="news-content">We release <b>DeepSeek-V4.1-Flash</b>.</span>
+</div>
+
+<div class="news-item">
   <span class="news-badge">2026/01</span>
   <span class="news-content">One paper accepted at <b>ICLR 2026</b>!</span>
 </div>
@@ -83,6 +88,22 @@ My research focuses on: (i) alignment and security problems of Large Language Mo
 </div>
 
 ## Preprints
+
+<div class="pub-item">
+  <div class="pub-title">DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression</div>
+  <div class="pub-authors">DeepSeek-AI</div>
+  <div class="pub-links">
+    <a href="https://arxiv.org/abs/2609.19969">Paper</a>
+  </div>
+</div>
+
+<div class="pub-item">
+  <div class="pub-title">DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence</div>
+  <div class="pub-authors">DeepSeek-AI</div>
+  <div class="pub-links">
+    <a href="https://arxiv.org/abs/2606.19348">Paper</a>
+  </div>
+</div>
 
 <div class="pub-item">
   <div class="pub-title">Learning beyond Teacher: Generalized On-Policy Distillation with Reward Extrapolation</div>
